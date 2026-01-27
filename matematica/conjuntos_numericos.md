@@ -1,4 +1,4 @@
-# Operações com números reais
+# Números reais
 ___
 ## Resumo sobre números reais
 O conjunto dos números reais é formado pelos números racionais (aqueles que podem ser representados em forma de fração) e pelos números irracionais (aqueles que não podem ser representados em forma de fração).

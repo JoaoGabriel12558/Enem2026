@@ -84,6 +84,42 @@ O ponto zero é chamado de **origem da reta**. À direita da origem estão os n�
 
 ![Reta numérica](imagens/reta.png)
 
+## Conjuntos Numéricos – Resumo
+
+### Ordem de inclusão
+ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ
+
+---
+
+### ℕ Naturais
+0, 1, 2, 3, …
+
+---
+
+### ℤ Inteiros
+…, -2, -1, 0, 1, 2, …
+
+---
+
+### ℚ Racionais
+Números que podem ser escritos como fração  
+Ex.: 1/2, -3, 0, 0,75
+
+---
+
+### Irracionais
+Números que **não** podem ser escritos como fração  
+Decimais infinitos e não periódicos  
+Ex.: √2, π, √3
+
+---
+
+### ℝ Reais
+Conjunto formado por **racionais + irracionais**
+
+> Observação: racionais e irracionais não se contêm entre si,
+> ambos pertencem aos reais.
+
 ### FONTE:
 [OLIVEIRA, Raul Rodrigues de. Números reais. Brasil Escola. Disponível em: https://brasilescola.uol.com.br/matematica/numeros-reais.htm
 . Acesso em: 09 nov. 2025.]

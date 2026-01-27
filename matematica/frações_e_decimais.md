@@ -11,5 +11,5 @@ A partir dos denominadores maiores que 10, adicionamos a palavra “avos” ao n
 Quando o denominador é 100, o nome será o numerador seguido da palavra centésimo, e quando o denominador é 1000, da palavra milésimo.
 
 <p align="center">
-<img src="imagens/leitura.jpeg" alt="leitura">
+<img src="imagens/leitura.jpg" alt="leitura">
 </p>

@@ -4,7 +4,7 @@ A fração representa uma divisão entre dois números. O número de cima é o *
 <p align="center">
   <img src="imagens/fracoes.png" alt="Frações" width="400">
 </p>
-___
+___  
 ## Leitura da fração
 O que nomeia a fração é o seu denominador, assim, pronunciamos o numerador em sua forma cardinal e alteramos a pronúncia do denominador para sua forma fracionária.  
 A partir dos denominadores maiores que 10, adicionamos a palavra “avos” ao nome do número cardinal do denominador.  

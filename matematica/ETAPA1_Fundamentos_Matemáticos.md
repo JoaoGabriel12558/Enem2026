@@ -82,4 +82,4 @@ Para essa representação, utilizamos o princípio da boa ordem dos números rea
 
 O ponto zero é chamado de **origem da reta**. À direita da origem estão os números reais positivos e, à esquerda, os números reais negativos.
 
-![Reta numérica](matematica/imagens/reta.png)
+![Reta numérica](imagens/reta.png)

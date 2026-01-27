@@ -83,3 +83,10 @@ Para essa representação, utilizamos o princípio da boa ordem dos números rea
 O ponto zero é chamado de **origem da reta**. À direita da origem estão os números reais positivos e, à esquerda, os números reais negativos.
 
 ![Reta numérica](imagens/reta.png)
+
+### FONTE:
+[OLIVEIRA, Raul Rodrigues de. Números reais. Brasil Escola. Disponível em: https://brasilescola.uol.com.br/matematica/numeros-reais.htm
+. Acesso em: 09 nov. 2025.]
+
+### Exercícios:
+https://exercicios.brasilescola.uol.com.br/exercicios-matematica/exercicios-sobre-numeros-reais.htm

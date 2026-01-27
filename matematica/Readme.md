@@ -5,7 +5,7 @@
 
 ### 📌 Semana 1 — Aritmética Essencial
 - [Operações com números reais](conjuntos_numericos.md)  
-- Frações e decimais  
+- [Frações e decimais](frações_e_decimais.md)  
 - Potenciação e radiciação  
 - Notação científica  
 

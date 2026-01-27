@@ -4,7 +4,7 @@
 ## 🔴 ETAPA 1 — Fundamentos Matemáticos (Semanas 1–3)
 
 ### 📌 Semana 1 — Aritmética Essencial
-- [Operações com números reais](matematica/conjuntos_numericos.md)  
+- [Operações com números reais](conjuntos_numericos.md)  
 - Frações e decimais  
 - Potenciação e radiciação  
 - Notação científica  

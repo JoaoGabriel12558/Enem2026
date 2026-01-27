@@ -1,13 +1,4 @@
 # 📘 Cronograma de Estudos – Matemática (ENEM + Estatística)
-
----
-
-## 🕒 Organização do Tempo (padrão diário)
-
-- ⏱️ **Bloco 1 (50–60 min):** Teoria + exemplos
-- ✏️ **Bloco 2 (50–60 min):** Exercícios (ENEM + nível médio)
-- 🎯 Prioridade: **resolver questões > assistir aulas**
-
 ---
 
 ## 🔴 ETAPA 1 — Fundamentos Matemáticos (Semanas 1–3)

@@ -41,10 +41,54 @@ As frações irredutíveis são aquelas que não podem ser simplificadas pois n�
 Fração mista é uma forma de representarum número fracionário.  
 <p align="center">
 <img src="imagens/fracao_mista.jpg" alt="fração mista">
-</p>  
+</p>    
 
+## Operações com frações  
 
+### Soma e Subtração:
+Para somar ou subtrair frações, devemos analisar o denominador.
+
+**Denominadores iguais:**  
+Nesse caso basta ignorar os denominadores e realizar as operações entre os numeradores.  
+>Ex: 1/8 + 3/8 = 4/8
+
+**Denominadores diferentes:**  
+Quando as frações têm **denominadores diferentes**, não é possível somar ou subtrair diretamente.  
+
+**Passo a passo**  
+1. Encontre um **denominador comum** (geralmente o MMC).  
+2. Transforme as frações em **frações equivalentes** com esse denominador.  
+3. Some ou subtraia **apenas os numeradores**.  
+4. Mantenha o **denominador comum**.  
+5. Simplifique o resultado, se possível.  
+
+**Exemplo (adição)**    
+>1/2 + 1/3  
+>    
+>MMC(2,3) = 6    
+>3/6 + 2/6 = 5/6  
+
+**Exemplo (subtração)**  
+>3/4 − 1/2    
+>
+>MMC(4,2) = 4    
+>3/4 − 2/4 = 1/4  
+
+**Regra importante**  
+Nunca some ou subtraia os **denominadores**.  
+
+### Multiplicação e divisão  
+
+**Multiplicação:**
+Para multiplicar duas frações, multiplicamos numerador por numerador e denominador por denominador. Se puder simplifique.  
+>Ex: 2/8 * 8/3 = 16/24 = 2/3  
+
+**Divisão:**
+Para dividir duas frações devemos conservar a primeira e multiplicar pelo inverso da segunda.  
+>Ex: 2/7  /  6/9  = 2/7 * 9/6  =  18/42 = 3/7
 
 ## Fonte:   
->https://brasilescola.uol.com.br/matematica/fracao.htm#O+que+%C3%A9+fra%C3%A7%C3%A3o%3F
+>SILVA, Luiz Paulo Moreira. Fração: o que é, como ler, tipos, operações. Brasil Escola. Disponível em: https://brasilescola.uol.com.br/matematica/fracao.htm. Acesso em: 24 maio 2024.
 
+## Exercícios:  
+>https://exercicios.brasilescola.uol.com.br/exercicios-matematica/exercicios-sobre-fracoes.htm

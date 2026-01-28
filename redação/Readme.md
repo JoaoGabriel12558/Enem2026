@@ -1,14 +1,6 @@
 # Cronograma de Estudos – Redação ENEM
 
-**Tempo sugerido:** 2 horas por semana  
-**Meta:** 800–900+ pontos  
-**Estratégia:** ciclo mensal reutilizável até a prova
-
----
-
 ## Semana 1 — Estrutura
-**Tempo:** 2h
-
 - Estudar a estrutura padrão da redação do ENEM:
   - Introdução (contextualização + tese)
   - Dois parágrafos de desenvolvimento
@@ -21,7 +13,6 @@
 ---
 
 ## Semana 2 — Argumentação e repertório
-**Tempo:** 2h
 
 - Montar repertórios coringa sobre:
   - Cidadania
@@ -37,7 +28,6 @@
 ---
 
 ## Semana 3 — Proposta de intervenção
-**Tempo:** 2h
 
 - Estudar os 5 elementos obrigatórios:
   - Agente
@@ -53,7 +43,6 @@
 ---
 
 ## Semana 4 — Treino completo
-**Tempo:** 2h
 
 - Escolher 1 tema (ENEM ou atual)
 - Escrever 1 redação completa
@@ -69,7 +58,6 @@
 ---
 
 ## Como usar o cronograma
-- Repetir o ciclo todo mês
 - Variar os temas e repertórios
 - Buscar escrever com mais clareza e menos erros a cada ciclo
 

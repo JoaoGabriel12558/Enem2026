@@ -30,13 +30,18 @@ Ela representa um número inteiro, ou seja, o numerador é divisível pelo denom
 Elas representam a mesma parte em relação ao todo, mesmo que sejam frações diferentes.  
 <p align="center">
 <img src="imagens/equivalentes.png" alt="fração equivalentes">
-</p>
+</p>  
 
-
-
-### Fração irredutível  
+### Frações irredutíveis
+As frações irredutíveis são aquelas que não podem ser simplificadas pois não existe nenhum número por qual o númerador e o denominador sejam divisiveis.  
+>Ex: 12/15 = 4/5, pois tanto 12 quanto 15 são divisíveis por 3.  
+>4/5 é uma fração irredutível.
 
 ### Fração mista
+Fração mista é uma forma de representarum número fracionário.  
+<p align="center">
+<img src="imagens/fracao_mista.jpg" alt="fração mista">
+</p>  
 
 
 

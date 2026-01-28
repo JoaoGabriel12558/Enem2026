@@ -29,7 +29,7 @@ Ela representa um número inteiro, ou seja, o numerador é divisível pelo denom
 ### Fração equivalente  
 Elas representam a mesma parte em relação ao todo, mesmo que sejam frações diferentes.  
 <p align="center">
-<img src="imagens/equivalente.jpg" alt="fração equivalente">
+<img src="imagens/equivalentes.png" alt="fração equivalentes">
 </p>
 
 

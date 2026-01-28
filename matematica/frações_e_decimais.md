@@ -24,9 +24,15 @@ O numerador é **menor** que o denominador
 O numerador é **maior** que o denominador
 >Ex:9/8 , 7/2 , 25/12
 ### Fração aparente  
-Ela representa um número inteiro, ou seja, o numerador é divisível pelo denominador.
-Ex: 2/2 = 1
+Ela representa um número inteiro, ou seja, o numerador é divisível pelo denominador.  
+>Ex: 2/2 = 1
 ### Fração equivalente  
+Elas representam a mesma parte em relação ao todo, mesmo que sejam frações diferentes.  
+<p align="center">
+<img src="imagens/equivalente.jpg" alt="fração equivalente">
+</p>
+
+
 
 ### Fração irredutível  
 
